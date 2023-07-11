@@ -4,9 +4,6 @@ import { connect, sendMsg } from "./api";
 import Header from './components/Header/Header';
 import ChatHistory from './components/ChatHistory/ChatHistory';
 
-
-
-
 class App extends Component {
 
   constructor(props) {
