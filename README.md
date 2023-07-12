@@ -42,7 +42,7 @@ To install React, please follow these steps:
 
 ## License
 
-- Designed and developed by 2020 saalid
+- Designed and developed by 2023 saalid
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
