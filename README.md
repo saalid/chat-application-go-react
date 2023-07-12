@@ -39,6 +39,11 @@ To install React, please follow these steps:
 ## Contributing
 
 - Explain how others can contribute to your project and the guidelines they should follow.
+## Show your support
+
+Give a ⭐ if you like this!
+
+<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
 ## License
 
